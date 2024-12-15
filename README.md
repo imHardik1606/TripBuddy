@@ -12,7 +12,7 @@ TripBuddy is the one-stop web app for all your travel planning needs. Forget the
 - Create and share custom itineraries 📅.
 - Track your expenses because travel doesn't come cheap 💸.
 - Pack your bags without forgetting the toothbrush 🪥.
-- Find travel buddies (because solo travel isn't always fun!) 👫.
+- **Find travel buddies to share adventures and expenses!** 👫.
 
 ...and so much more!
 
@@ -28,7 +28,8 @@ In short, **TripBuddy** is like having your own travel concierge, minus the judg
 - **Budget Tracker**: Track every penny you spend, from plane tickets to late-night street food binges.
 - **Packing List**: Never forget your passport again. Or your favorite pair of flip-flops.
 - **Destination Recommendations**: Not sure where to go? Let TripBuddy inspire you with top-rated destinations and hidden gems.
-- **Travel Buddy Finder**: Because adventures are better with friends (or strangers who become friends).
+- **Travel Buddy Finder**: Hate traveling alone? Use our **Find a Friend** feature to connect with someone who also needs a travel partner. Share experiences, split costs, and make memories together!
+- **Expense Sharing**: Automatically split trip expenses with your new travel buddy to avoid awkward "who owes who" calculations.
 
 ### 😂 "Fun" Features
 
@@ -125,13 +126,6 @@ But we *are* here to make your trip as stress-free as possible.
 
 ---
 
-## 💌 Contact Us
-
-Got feedback, feature ideas, or just want to say hi? Drop us a message at:
-- **Email**: support@tripbuddy.com
-- **Twitter**: [@TripBuddyApp](https://twitter.com/TripBuddyApp)
-- **GitHub Issues**: Open an issue, and we'll get right on it!
-
----
-
 Happy Travels! 🌟
+
+Let me know if there’s anything else you’d like to tweak! 😊
